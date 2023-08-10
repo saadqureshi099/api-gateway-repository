@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  api-gateway:
+    container_name: apigateway-service-docker
+    image: apigateway-service-docker
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8181:8080"
+    expose:
+      - "8080"
+

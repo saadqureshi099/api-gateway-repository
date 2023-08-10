@@ -1,0 +1,7 @@
+/home/dev/Documents/Insta/Instaclone/api-gateway-service/src/main/java/org/instagram/exceptions/InvalidAccessException.java
+/home/dev/Documents/Insta/Instaclone/api-gateway-service/src/main/java/org/instagram/util/JwtUtil.java
+/home/dev/Documents/Insta/Instaclone/api-gateway-service/src/main/java/org/instagram/GatewayMain.java
+/home/dev/Documents/Insta/Instaclone/api-gateway-service/src/main/java/org/instagram/filter/AuthenticationFilter.java
+/home/dev/Documents/Insta/Instaclone/api-gateway-service/src/main/java/org/instagram/filter/RouteValidator.java
+/home/dev/Documents/Insta/Instaclone/api-gateway-service/src/main/java/org/instagram/config/AppConfig.java
+/home/dev/Documents/Insta/Instaclone/api-gateway-service/src/main/java/org/instagram/util/UserServiceClient.java
